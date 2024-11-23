@@ -1,0 +1,8 @@
+[workspace]
+members = ["bits-op", "struct-opt"]
+resolver = "2"
+
+[workspace.dependencies]
+bit-struct = "0.3.2"
+anyhow = "1.0.87"
+structopt = "0.3.26"
