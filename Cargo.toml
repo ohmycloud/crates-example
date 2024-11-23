@@ -1,5 +1,5 @@
 [workspace]
-members = ["bits-op", "rayon-test", "struct-opt"]
+members = ["bits-op", "example", "rayon-test", "struct-opt"]
 resolver = "2"
 
 [workspace.dependencies]
