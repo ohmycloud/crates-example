@@ -1,5 +1,5 @@
 [package]
-name = "example"
+name = "crate-example"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,3 +7,6 @@ edition = "2021"
 rand = { workspace = true }
 parquet = { workspace = true }
 serde_json = { workspace = true }
+bon = { workspace = true }
+tokio = { workspace = true }
+tokio-stream = { workspace = true }
