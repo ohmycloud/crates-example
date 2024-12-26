@@ -10,3 +10,17 @@ serde_json = { workspace = true }
 bon = { workspace = true }
 tokio = { workspace = true }
 tokio-stream = { workspace = true }
+anyhow = { workspace = true }
+chrono = { workspace = true }
+console-subscriber = { workspace = true }
+rayon = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+ansi_term = { workspace = true }
+axum = { workspace = true }
+crossterm = { workspace = true }
+fastrand = { workspace = true }
+ratatui = { workspace = true }
+reqwest = { workspace = true }
+serde = { workspace = true }
+bitfields = { workspace = true }
